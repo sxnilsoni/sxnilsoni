@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sunil 👋
 
-<!--
-**sxnilsoni/sxnilsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Cyber Security Student  
+🔐 Ethical Hacker  
+💻 Python & Network Security Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- AI-based Intrusion Detection Systems
+- Malware Behavior Analysis
+- Network Traffic Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- Kali Linux
+- Nmap
+- Wireshark
+- Basic Machine Learning
+
+## 📫 Connect With Me
+- Email: sunilsonicybersec@gmail.com
